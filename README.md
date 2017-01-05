@@ -22,7 +22,7 @@ _If you have any issues or would like to chat about the Dan, contact brendan at 
 
 ##Technologies Used
 
-__I used HTML, CSS and Markdown to complete this page._
+_I used HTML, CSS and Markdown to complete this page._
 
 ###Legal
 

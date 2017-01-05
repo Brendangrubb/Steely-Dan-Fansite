@@ -1,0 +1,12 @@
+body {
+	background-color: gray;
+}
+
+.title {
+	text-align: center;
+	font-style: italic;
+	color: red;
+}
+.important{
+	font-weight: bold;
+}
