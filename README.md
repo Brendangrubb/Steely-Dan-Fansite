@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a basic fansite aboutthe band Steely Dan. It's basicsite because I'm not very good at making website yet. Just wait though, I'll get better!_
+_This is a basic fansite about the band Steely Dan. It's basicsite because I'm not very good at making website yet. Just wait though, I'll get better!_
 
 ## Setup Requirements
 
